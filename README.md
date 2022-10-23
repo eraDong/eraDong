@@ -21,5 +21,3 @@
   - QQ: 1184434988
   
   - E-mail: 1184434988@qq.com
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eraDong&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
