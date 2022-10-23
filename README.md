@@ -1,6 +1,6 @@
 # 沒關係啦，因爲人生嘛
 
-<img src="https://s2.loli.net/2022/10/23/8oMyzf2rtm7XkqF.jpg" width="400" height="600" align="right"/><br/>
+<img src="https://s2.loli.net/2022/10/23/8oMyzf2rtm7XkqF.jpg" width="400" height="450" align="right"/><br/>
 
 ## 世紀東來自世紀雲浮
 
