@@ -20,4 +20,6 @@
 
   - QQ: 1184434988
   
-  - E-mail: 1184434988@qq.com
+  - E-mail: eradonng@gmail.com
+
+  - battlenet eraDonng#1645 (Eu)
