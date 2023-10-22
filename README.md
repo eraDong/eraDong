@@ -13,8 +13,6 @@
   1. [Apply for Germany CS master degree.](https://github.com/eraDong/RandomThings/tree/main/Postgraduation/theChoicesOfSchool)
   
   2. GRE,IELTS.
-  
-  3. Learn WEB
 
 - Contact me:
 
