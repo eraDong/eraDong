@@ -2,12 +2,8 @@
 
 - Recent plans:
 
-  1. [GER MS](https://github.com/eraDong/RandomThings/tree/main/Postgraduation/theChoicesOfSchool)
-  
-  2. GRE,IELTS.
+  1. [Master Degree](https://github.com/eraDong/RandomThings/tree/main/Postgraduation/theChoicesOfSchool)
 
 - Contact me:
-
-  - QQ: 1184434988
   
   - E-mail: eradonng@gmail.com
