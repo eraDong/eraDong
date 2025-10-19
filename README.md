@@ -4,10 +4,6 @@
 
   - [Click!](https://eradong.github.io/)
 
-- Recent plans:
-
-  1. [Master Degree](https://github.com/eraDong/RandomThings/tree/main/Postgraduation/theChoicesOfSchool)
-
 - Contact me:
   
   - E-mail: eradonng@gmail.com
